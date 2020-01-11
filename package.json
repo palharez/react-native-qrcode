@@ -12,6 +12,9 @@
     "qrcode"
   ],
   "author": "sivision.chen <cssivision@gmail.com>",
+  "contributors": [
+    "palharez <xeduardopalhares@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/cssivision/react-native-qrcode/issues"
@@ -20,6 +23,7 @@
   "dependencies": {
     "create-react-class": "^15.6.0",
     "prop-types": "^15.5.10",
-    "qr.js": "0.0.0"
+    "qr.js": "0.0.0",
+    "react-native-webview": "^8.0.3"
   }
 }
